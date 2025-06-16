@@ -12,6 +12,6 @@ A Streamlit app using GPT‑4 to generate SQL, detect hallucinations, track toke
 ## Installation
 
 ```bash
-git clone https://github.com/YourUser/sql-hallucination-detector.git
+git clone https://github.com/DineshBastin04/sql-hallucination-detector.git
 cd sql-hallucination-detector
 pip install -r requirements.txt
